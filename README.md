@@ -1,2 +1,2 @@
 # gitclone
-the files needed to use the git clone command only
+general programs i need to download automaticly on my apps
